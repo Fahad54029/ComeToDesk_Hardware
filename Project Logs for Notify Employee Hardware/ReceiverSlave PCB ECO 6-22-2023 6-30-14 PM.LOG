@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+12 Pin=RL1-1
+Removed Pin From Net: NetName=NetD1_1 Pin=RL1-2
+Removed Member From Class: ClassName=ReceiverSlave Member=RL1
+Added Component: Designator=RL?(RL_SPST_5ARelay_AZ7709-1AB-12DE)
+Added Pin To Net: NetName=+12 Pin=RL?-1
+Added Pin To Net: NetName=NetD1_1 Pin=RL?-2
+Added Pin To Net: NetName=NetRL?_3 Pin=RL?-3
+Added Pin To Net: NetName=NetRL?_3 Pin=T1-1
+Added Net: Name=NetRL?_3
+Added Pin To Net: NetName=NetRL?_4 Pin=RL?-4
+Added Pin To Net: NetName=NetRL?_4 Pin=T1-2
+Added Net: Name=NetRL?_4
+Added Member To Class: ClassName=ReceiverSlave Member=Component RL? VDC A
+Added Room: Name=ReceiverSlave

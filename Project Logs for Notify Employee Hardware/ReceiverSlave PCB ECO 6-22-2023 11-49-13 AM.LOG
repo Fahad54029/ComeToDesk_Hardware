@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=ReceiverSlave Member=R12
+Added Component: Designator=T*(Terminal 2P)
+Added Pin To Net: NetName=NetRL1_3 Pin=RL1-3
+Added Pin To Net: NetName=NetRL1_3 Pin=T*-1
+Added Net: Name=NetRL1_3
+Added Pin To Net: NetName=NetRL1_4 Pin=RL1-4
+Added Pin To Net: NetName=NetRL1_4 Pin=T*-2
+Added Net: Name=NetRL1_4
+Added Member To Class: ClassName=ReceiverSlave Member=Component T* Terminal Con 2P

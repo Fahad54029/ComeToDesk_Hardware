@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetRL?_3 Pin=T1-1
+Removed Pin From Net: NetName=NetRL?_4 Pin=T1-2
+Added Pin To Net: NetName=NetRL?_4 Pin=T1-1
+Added Pin To Net: NetName=NetRL?_3 Pin=T1-2
+Added Room: Name=ReceiverSlave

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetRL?_4 Pin=-1
+Removed Pin From Net: NetName=NetRL?_3 Pin=-2
+Change Component Designator: OldDesignator= NewDesignator=T*
+Added Pin To Net: NetName=NetRL?_3 Pin=T*-1
+Added Pin To Net: NetName=NetRL?_4 Pin=T*-2
+Added Room: Name=ReceiverSlave

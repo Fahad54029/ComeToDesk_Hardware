@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=RL? NewDesignator=RL1
+Change Net Name : Old Net Name=NetRL?_3 New Net Name=NetRL1_3
+Change Net Name : Old Net Name=NetRL?_4 New Net Name=NetRL1_4
+Added Room: Name=ReceiverSlave

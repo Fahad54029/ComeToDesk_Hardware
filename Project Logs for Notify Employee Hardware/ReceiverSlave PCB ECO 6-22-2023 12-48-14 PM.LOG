@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+12 Pin=D1-1
+Removed Pin From Net: NetName=+12 Pin=LD1-2
+Removed Pin From Net: NetName=+12 Pin=Q2-3
+Removed Pin From Net: NetName=+12 Pin=RL?-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=LD1-2
+Added Pin To Net: NetName=NetD1_1 Pin=Q2-3
+Added Pin To Net: NetName=NetD1_1 Pin=RL?-2
+Added Net: Name=NetD1_1
+Added Room: Name=ReceiverSlave

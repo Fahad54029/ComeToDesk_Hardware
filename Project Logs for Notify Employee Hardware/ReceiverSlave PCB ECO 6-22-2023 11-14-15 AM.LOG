@@ -1,0 +1,20 @@
+Change Component Comment : Designator=R1 Old Comment=4.7KO New Comment=10KO
+Change Component Comment : Designator=R4 Old Comment=4.7KO New Comment=10KO
+Change Component Comment : Designator=R2 Old Comment=10KO New Comment=47KO
+Change Component Comment : Designator=R3 Old Comment=10KO New Comment=47KO
+Change Component Comment : Designator=C2 Old Comment=22uF New Comment=10uF
+Added Component: Designator=C5(C_0805)
+Added Component: Designator=C6(C_0805)
+Added Component: Designator=R11(R_0805)
+Added Pin To Net: NetName=3V3 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=+12 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=NetBZ1_2 Pin=R11-1
+Added Pin To Net: NetName=+12 Pin=R11-2
+Add Pin To Net: Unknown Pin: Pin T1-1
+Add Pin To Net: Unknown Pin: Pin T1-2
+Added Member To Class: ClassName=ReceiverSlave Member=Component C5 100nF
+Added Member To Class: ClassName=ReceiverSlave Member=Component C6 100nF
+Added Member To Class: ClassName=ReceiverSlave Member=Component R11 1KO
+Added Room: Name=ReceiverSlave

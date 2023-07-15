@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DIN Pin=L1-4
+Added Pin To Net: NetName=HEAT SINK Pin=L1-4
+Added Net: Name=HEAT SINK
+Added Room: Name=ReceiverSlave
